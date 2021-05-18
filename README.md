@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Pedro Guillermo 👋
+
+## I'm a Software Engineer, who's developing new skills! 
+
+- 📚 I’m currently learning React and React Native, Javascript, Nodejs and Firebase.
+- 🧔 I’m looking to collaborate with other passionate developers.
+- 🥅 2021 Goals: Implement good Engineering practices. Contribute to Open Source projects.
+- ⚡ Fun fact: I love meeting people and traveling with my backpack. I volunteer at an international organization.
 
 <!--
 **Pgrm97/Pgrm97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
