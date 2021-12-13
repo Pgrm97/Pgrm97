@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning React and React Native, Javascript, Nodejs and Firebase.
 - 🧔 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Implement good Engineering practices. Contribute to Open Source projects.
+- 🥅 2022 Goals: Implement good Engineering practices. Contribute to Open Source projects.
 - ⚡ Fun fact: I love meeting people and traveling with my backpack. I volunteer at an international organization.
 
 ### Languages and Tools:
